@@ -14,3 +14,6 @@ regime needs to develop.
 
 Run `simulations.py` for the demos and `tests.py` for the convergence tests
 (requires numpy and matplotlib).
+
+![Two solitons passing through each other](interaction.png)
+![A Gaussian breaking up into a train of solitons](gaussian_to_solitons.png)
